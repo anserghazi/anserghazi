@@ -10257,5 +10257,13 @@ form .row:first-child .floating-label-form-group {
   color: #fff;
 }
 
+.divider-paragraph {
+  margin: 1.25rem 0 0rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 
